@@ -1,0 +1,2 @@
+go run <go file path> - run script
+go build <go file path> - build file (get .exe file)
